@@ -1,7 +1,7 @@
 # 42seoul
 42Seoul에서 진행중인 본과정 프로젝트를 소개합니다.
 
-[![minsungk's 42 stats](https://badge42.herokuapp.com/api/stats/minsungk?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+[![minsungk's 42 stats](https://badge42.herokuapp.com/api/stats/minsungk)](https://github.com/JaeSeoKim/badge42)
 
 ## 🎖 Common Circle
 
