@@ -6,7 +6,7 @@
 
 | Circle | Project                | Language | Topics                                           | Date of Completion |
 | :----: | :--------------------- | :------: | :----------------------------------------------- | :----------------: |
-|   1    | [**Libft**](../libft) |    C     | `library` `Makefile` `linked list`               |   2020. **. **.    |
+|   1    | [**Libft**](https://github.com/MinsoftK/libft) |    C     | `library` `Makefile` `linked list`               |   2020. **. **.    |
 |   2    |      |    -     |  |   closed    |
 |        |      |    -     |  |   closed    |
 |        |      |    -     |  |   closed    |
