@@ -11,4 +11,5 @@
 /* ************************************************************************** */
 
 void	*ft_memset(void *dest, int value, size_t count);
+void    *ft_bzero(void *dest, size_t len);
 
