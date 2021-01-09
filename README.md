@@ -13,7 +13,7 @@
 
 | Circle | Project                | Language | Topics                                           | Date of Completion |
 | :----: | :--------------------- | :------: | :----------------------------------------------- | :----------------: |
-|   1    | [**Libft**](https://github.com/MinsoftK/libft) |    C     | `library` `Makefile` `linked list`               |   ing    |
+|   1    | [**Libft**](https://github.com/MinsoftK/libft) |    C     | `library` `Makefile` `linked list`               |   [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/intra_id/project_name)](https://github.com/JaeSeoKim/badge42)    |
 |   2    |      |    -     |  |   closed    |
 |        |      |    -     |  |   closed    |
 |        |      |    -     |  |   closed    |
