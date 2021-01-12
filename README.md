@@ -14,7 +14,7 @@
 | Circle | Project                | Language | Topics                                           | Date of Completion |
 | :----: | :--------------------- | :------: | :----------------------------------------------- | :----------------: |
 |   1    | [**Libft**](https://github.com/MinsoftK/libft) |    C     | `library` `Makefile` `linked list`               |   [![minsungk's 42Project Score](https://badge42.herokuapp.com/api/project/minsungk/Libft)](https://github.com/JaeSeoKim/badge42)    |
-|   2    | [**Netwhat**](https://github.com/MinsoftK/netwhat)     |    -     | Understand how network works  |   [![minsungk's 42Project Score](https://badge42.herokuapp.com/api/project/minsungk/Netwhat)](https://github.com/JaeSeoKim/badge42) |
+|   2    | [**Netwhat**](https://github.com/MinsoftK/netwhat)     |    -     | Understand how network works  |   [![minsungk's 42Project Score](https://badge42.herokuapp.com/api/project/minsungk/netwhat)](https://github.com/JaeSeoKim/badge42) |
 |        |      |    -     |  |   closed    |
 |        |      |    -     |  |   closed    |
 |   3    |      |    -    |  |   closed    |
