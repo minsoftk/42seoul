@@ -15,9 +15,8 @@
 | :----: | :--------------------- | :------: | :----------------------------------------------- | :----------------: |
 |   1    | [**Libft**](https://github.com/MinsoftK/libft) |    C     | `library` `Makefile` `linked list`               |   [![minsungk's 42Project Score](https://badge42.herokuapp.com/api/project/minsungk/Libft)](https://github.com/JaeSeoKim/badge42)    |
 |   2    | [**Netwhat**](https://github.com/MinsoftK/netwhat)     |    -     | Understand how network works  |   [![minsungk's 42Project Score](https://badge42.herokuapp.com/api/project/minsungk/netwhat)](https://github.com/JaeSeoKim/badge42) |
-|        |      |    -     |  |   closed    |
-|        |      |    -     |  |   closed    |
 |   3    |   [**Netwhat**](https://github.com/MinsoftK/get_next_line)   |    -    |  Reading a line on a fd is way too tedious |  [![minsungk's 42Project Score](https://badge42.herokuapp.com/api/project/minsungk/get_next_line)](https://github.com/JaeSeoKim/badge42)    |
+|        |      |    -     |  |   closed    |
 |        |      |    -     |  |   closed    |
 |   4    |      |    -    |  |   closed    |
 |        |      |    -     |                                                  |       closed       |
