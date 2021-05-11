@@ -19,7 +19,7 @@
 |   4    | [**ft_printf**](https://github.com/MinsoftK/ft_printf)  |    C     | Because putnbr and putstr aren’t enough |    [![minsungk's 42Project Score](https://badge42.herokuapp.com/api/project/minsungk/ft_printf)](https://github.com/JaeSeoKim/badge42)     |
 |   5    |  [**ft_server**](https://github.com/MinsoftK/ft_server)  |   C, Docker, bash  | You will discover Docker and you will set up your first web server. |    [![minsungk's 42Project Score](https://badge42.herokuapp.com/api/project/minsungk/ft_server)](https://github.com/JaeSeoKim/badge42)  |
 |   6    |  **exam rank 02**    |    C    |  test my projects   |        -ing            |
-|   7    |  [**cub3D**](https://github.com/MinsoftK/cub3D)           |    C    |                     |        -ing       |
+|   7    |  [**cub3D**](https://github.com/MinsoftK/cub3D)           |    C    |   My first RayCaster with miniLibX  |        -ing       |
 |        |      |          |                                                  |       closed       |
 |        |        |          |                                                  |       closed       |
 |        |            |          |                                                  |       closed       |
