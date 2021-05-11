@@ -18,7 +18,7 @@
 |   3    | [**get_next_line**](https://github.com/MinsoftK/get_next_line)   |    C    |  Reading a line on a fd is way too tedious |  [![minsungk's 42Project Score](https://badge42.herokuapp.com/api/project/minsungk/get_next_line)](https://github.com/JaeSeoKim/badge42)    |
 |   4    | [**ft_printf**](https://github.com/MinsoftK/ft_printf)  |    C     | Because putnbr and putstr aren’t enough |    [![minsungk's 42Project Score](https://badge42.herokuapp.com/api/project/minsungk/ft_printf)](https://github.com/JaeSeoKim/badge42)     |
 |   5    |  [**ft_server**](https://github.com/MinsoftK/ft_server)  |    C     | This is a System Administration subject. You will discover Docker and you
-will set up your first web server. |    [![minsungk's 42Project Score](https://badge42.herokuapp.com/api/project/minsungk/ft_server)](https://github.com/JaeSeoKim/badge42)     |
+will set up your first web server. |    [![minsungk's 42Project Score](https://badge42.herokuapp.com/api/project/minsungk/ft_server)[(https://github.com/JaeSeoKim/badge42)     |
 |   6    |      |    -    |  |   closed    |
 |   7    |      |    -     |                                                  |       closed       |
 |        |      |          |                                                  |       closed       |
